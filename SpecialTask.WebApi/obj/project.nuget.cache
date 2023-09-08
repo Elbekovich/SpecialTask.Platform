@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "o47VxEu/yHFsJ3BpkhmyFjqUM67x2glsK2f0Ugb6h+854d2z509J92Sj6fguQs2VrtH5Wg0VA8hOqY8DMB0D5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jumakulov\\Desktop\\AloneTask\\SpecialTask\\SpecialTask.WebApi\\SpecialTask.WebApi\\SpecialTask.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jumakulov\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\jumakulov\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\jumakulov\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\jumakulov\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\jumakulov\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\jumakulov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\jumakulov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
