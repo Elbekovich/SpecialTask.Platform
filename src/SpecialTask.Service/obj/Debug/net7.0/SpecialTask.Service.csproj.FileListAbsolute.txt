@@ -1,0 +1,11 @@
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Service\bin\Debug\net7.0\SpecialTask.Service.deps.json
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Service\bin\Debug\net7.0\SpecialTask.Service.dll
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Service\bin\Debug\net7.0\SpecialTask.Service.pdb
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Service\obj\Debug\net7.0\SpecialTask.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Service\obj\Debug\net7.0\SpecialTask.Service.AssemblyInfoInputs.cache
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Service\obj\Debug\net7.0\SpecialTask.Service.AssemblyInfo.cs
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Service\obj\Debug\net7.0\SpecialTask.Service.csproj.CoreCompileInputs.cache
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Service\obj\Debug\net7.0\SpecialTask.Service.dll
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Service\obj\Debug\net7.0\refint\SpecialTask.Service.dll
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Service\obj\Debug\net7.0\SpecialTask.Service.pdb
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Service\obj\Debug\net7.0\ref\SpecialTask.Service.dll

@@ -1,0 +1,11 @@
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Persistance\bin\Debug\net7.0\SpecialTask.Persistance.deps.json
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Persistance\bin\Debug\net7.0\SpecialTask.Persistance.dll
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Persistance\bin\Debug\net7.0\SpecialTask.Persistance.pdb
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Persistance\obj\Debug\net7.0\SpecialTask.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Persistance\obj\Debug\net7.0\SpecialTask.Persistance.AssemblyInfoInputs.cache
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Persistance\obj\Debug\net7.0\SpecialTask.Persistance.AssemblyInfo.cs
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Persistance\obj\Debug\net7.0\SpecialTask.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Persistance\obj\Debug\net7.0\SpecialTask.Persistance.dll
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Persistance\obj\Debug\net7.0\refint\SpecialTask.Persistance.dll
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Persistance\obj\Debug\net7.0\SpecialTask.Persistance.pdb
+C:\Users\jumakulov\Desktop\AloneTask\SpecialTask\SpecialTask.WebApi\src\SpecialTask.Persistance\obj\Debug\net7.0\ref\SpecialTask.Persistance.dll
