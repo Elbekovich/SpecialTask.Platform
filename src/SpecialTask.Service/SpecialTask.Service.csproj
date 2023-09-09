@@ -6,4 +6,22 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Hubs\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Abstractions" Version="7.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SpecialTask.Application\SpecialTask.Application.csproj" />
+    <ProjectReference Include="..\SpecialTask.DataAccsess\SpecialTask.DataAccsess.csproj" />
+    <ProjectReference Include="..\SpecialTask.Domain\SpecialTask.Domain.csproj" />
+    <ProjectReference Include="..\SpecialTask.Persistance\SpecialTask.Persistance.csproj" />
+  </ItemGroup>
+
 </Project>
