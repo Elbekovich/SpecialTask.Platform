@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jJ58BD/LPRa2owZOA6iKobzQeB9h7l1bAedERTKGvQWJ13I8zs/fk/QzF7pZcZ30d07amcBo/8NCgNLqaGMRXQ==",
+  "dgSpecHash": "0guUnTaOkN7E2yx5lWwBgiQm6wvvRXtvSL9kcplGzivOwuc2JL8mNS/kYvpb5Puz2GVd7Cg0QirxU5MiG8/tEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.WebApi\\src\\SpecialTask.Persistance\\SpecialTask.Persistance.csproj",
+  "projectFilePath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.Persistance\\SpecialTask.Persistance.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

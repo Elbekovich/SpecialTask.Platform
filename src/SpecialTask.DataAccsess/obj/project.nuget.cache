@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WIKFI9H0Rq8vP+be+In/k7/5JMeM0WApSUkheWV+B3jG1mwWVXm0k8vlf4TVcD3VFju3Otb+J/upEI17H+J3aA==",
+  "dgSpecHash": "kOv/uBF/vRRYmsWaixSkrQRtgV6CGa3tvAa398W/74iU+suMsEJjroqVIVk1AIqLf96tsECWMrjyfYa/wj2LOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.WebApi\\src\\SpecialTask.DataAccsess\\SpecialTask.DataAccsess.csproj",
+  "projectFilePath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.DataAccsess\\SpecialTask.DataAccsess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jumakulov\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
     "C:\\Users\\jumakulov\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",

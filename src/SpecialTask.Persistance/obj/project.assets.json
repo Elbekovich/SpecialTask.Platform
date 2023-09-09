@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.WebApi\\src\\SpecialTask.Persistance\\SpecialTask.Persistance.csproj",
+      "projectUniqueName": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.Persistance\\SpecialTask.Persistance.csproj",
       "projectName": "SpecialTask.Persistance",
-      "projectPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.WebApi\\src\\SpecialTask.Persistance\\SpecialTask.Persistance.csproj",
+      "projectPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.Persistance\\SpecialTask.Persistance.csproj",
       "packagesPath": "C:\\Users\\jumakulov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.WebApi\\src\\SpecialTask.Persistance\\obj\\",
+      "outputPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.Persistance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
