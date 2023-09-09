@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eobKpqvS79acZL6L0rffT8Wceg1jEZk2jGvwCT1Ox/ebLXPcdYMjAPFH3Wk+J2ixBwUAqy7/GQl6ryEAPvK3Kw==",
+  "dgSpecHash": "HXq74Q4/li1Q/hxQagDiCmCJHqHXWaFVgO603k3DAw81xZ/UezkjoP7C5GY+P2E78UmKNEsNea8PBzKArj6Tfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jumakulov\\Desktop\\AloneTask\\SpecialTask\\SpecialTask.WebApi\\src\\SpecialTask.WebApi\\SpecialTask.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.WebApi\\src\\SpecialTask.WebApi\\SpecialTask.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jumakulov\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\jumakulov\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
