@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lQWy19b3Xl/pOzwaMVm99RObIqfnrSxh9k6fc0glTv9z5DJ/wEsGmWqFKPvvZJ15+/Gis1zYmRpzo5IbfhkZtg==",
+  "dgSpecHash": "iMs4ZBWR5uTtf34+KUkeaG35tl7NNPIjOJ4Hc4X/ucdXxchC4gCa33gqst7XeAejaT6JZ1s+63LJ2KhW2+hirw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jumakulov\\Desktop\\AloneTask\\SpecialTask\\SpecialTask.WebApi\\src\\SpecialTask.Domain\\SpecialTask.Domain.csproj",
+  "projectFilePath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.WebApi\\src\\SpecialTask.Domain\\SpecialTask.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
