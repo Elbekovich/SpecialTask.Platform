@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0guUnTaOkN7E2yx5lWwBgiQm6wvvRXtvSL9kcplGzivOwuc2JL8mNS/kYvpb5Puz2GVd7Cg0QirxU5MiG8/tEw==",
+  "dgSpecHash": "Urt2U0CpxHQidtM2WPKaxxcV0iLxUmLVjHThr/X3jV7nfKXMafjypDBiqBQh9yU8k+tjSEc7ZAMP+7MH28V5kw==",
   "success": true,
   "projectFilePath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.Persistance\\SpecialTask.Persistance.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jumakulov\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\jumakulov\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\jumakulov\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\jumakulov\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
