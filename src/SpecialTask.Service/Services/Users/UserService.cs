@@ -43,7 +43,6 @@ namespace SpecialTask.Service.Services.Users
 
         public async Task<IList<UserViewModel>> GetAllAsync(PaginationParams @params)
         {
-            //throw new NotImplementedException();
             var users1 = await _repository.GetAllAsync(@params);
             var count = await _repository.CountAsync();
             _paginator.Paginate(count, @params);

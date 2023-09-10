@@ -28,7 +28,6 @@ namespace SpecialTask.Service.Services.Posts
 
         public async Task<bool> CreateAsync(PostCreateDto dto)
         {
-            //
             Post post = new Post()
             {
                 CategoryId = dto.CategoryId,
@@ -54,7 +53,6 @@ namespace SpecialTask.Service.Services.Posts
 
         public async Task<bool> DeleteAsync(long id)
         {
-            //throw new NotImplementedException();
             var db = await _postRepository.GetByIdAsync(id);
             if (db is null) throw new PostNotFoundException();
             var dbResult = await _postRepository.DeleteAsync(id);
@@ -64,7 +62,6 @@ namespace SpecialTask.Service.Services.Posts
 
         public async Task<IList<Post>> GetAllAsync(PaginationParams @params)
         {
-            //throw new NotImplementedException();
             var posts = await _postRepository.GetAllAsync(@params);
             var count = await _postRepository.CountAsync();
             _paginator.Paginate(count, @params);
@@ -87,7 +84,6 @@ namespace SpecialTask.Service.Services.Posts
 
         public async Task<IList<Post>> SearchAsync(string search, PaginationParams @params)
         {
-            //throw new NotImplementedException();
             var posts = await _postRepository.SearchAsync(search, @params);
             int count = await _postRepository.SearchCountAsync(search);
             return posts;
