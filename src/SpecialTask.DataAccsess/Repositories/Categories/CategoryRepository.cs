@@ -2,6 +2,7 @@
 using SpecialTask.Application.Utils;
 using SpecialTask.DataAccsess.Interfaces.Categories;
 using SpecialTask.Domain.Entities.Categories;
+using SpecialTask.Domain.Entities.Posts;
 
 namespace SpecialTask.DataAccsess.Repositories.Categories;
 
@@ -94,6 +95,11 @@ public class CategoryRepository : BaseRepository, ICategoryRepository
         }
         catch { return null; }
         finally { await _connection.CloseAsync(); } 
+    }
+
+    public Task<IList<Post>> GetPostsByCategory(long category)
+    {
+        throw new NotImplementedException();
     }
 
     public async Task<int> UpdateAsync(long id, Category entity)
