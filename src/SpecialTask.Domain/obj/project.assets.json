@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.Domain\\SpecialTask.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.Domain\\SpecialTask.Domain.csproj",
       "projectName": "SpecialTask.Domain",
-      "projectPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.Domain\\SpecialTask.Domain.csproj",
+      "projectPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.Domain\\SpecialTask.Domain.csproj",
       "packagesPath": "C:\\Users\\jumakulov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.Domain\\obj\\",
+      "outputPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

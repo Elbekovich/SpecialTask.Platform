@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DZ341EYKh2iHPaH/o0zXzF0rZsrjNLBIkmfU16DmiMZjwsmNNAreL6QsemOjjdKOLlccqyT5KnRN3NCgCrAmmw==",
+  "dgSpecHash": "2NNQHuGYlao+nWDwelUE3uhifteFgpuBGON28RKbwzJ/nR9p4/zihSR90GlIF2sbgdvcAZS6/o+LEYi9Z6XfIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.Service\\SpecialTask.Service.csproj",
+  "projectFilePath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.Service\\SpecialTask.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jumakulov\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\jumakulov\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",

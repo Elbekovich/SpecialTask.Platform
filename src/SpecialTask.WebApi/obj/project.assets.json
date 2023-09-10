@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\SpecialTask.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\SpecialTask.WebApi.csproj",
       "projectName": "SpecialTask.WebApi",
-      "projectPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\SpecialTask.WebApi.csproj",
+      "projectPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\SpecialTask.WebApi.csproj",
       "packagesPath": "C:\\Users\\jumakulov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
