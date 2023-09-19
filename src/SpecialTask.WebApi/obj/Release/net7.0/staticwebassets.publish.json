@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "77+qztKRm+JIsgn+Rl4J84MoyfJPmOD6FtKYCgkE+n8=",
+  "Source": "SpecialTask.WebApi",
+  "BasePath": "_content/SpecialTask.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SpecialTask.WebApi\\wwwroot",
+      "Source": "SpecialTask.WebApi",
+      "ContentRoot": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\wwwroot\\",
+      "BasePath": "_content/SpecialTask.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\wwwroot\\media\\avatar\\user.jpg",
+      "SourceId": "SpecialTask.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\wwwroot\\",
+      "BasePath": "_content/SpecialTask.WebApi",
+      "RelativePath": "media/avatar/user.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\avatar\\user.jpg"
+    }
+  ]
+}

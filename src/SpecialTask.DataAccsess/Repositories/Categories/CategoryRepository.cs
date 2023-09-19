@@ -97,9 +97,13 @@ public class CategoryRepository : BaseRepository, ICategoryRepository
         finally { await _connection.CloseAsync(); } 
     }
 
-    public Task<IList<Post>> GetPostsByCategory(long category)
+    public async Task<IList<Post>> GetPostsByCategory(long category)
     {
-        throw new NotImplementedException();
+        string query = "SELECT * FROM posts WHERE category_id = @CategoryId";
+        var paramaters = new {Category = category};
+        var posts = await _connection.QueryAsync<Post>(query, paramaters);
+        return posts.ToList();
+        
     }
 
     public async Task<int> UpdateAsync(long id, Category entity)

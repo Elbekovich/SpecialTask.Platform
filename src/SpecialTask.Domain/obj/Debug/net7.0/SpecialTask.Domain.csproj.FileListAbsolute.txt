@@ -20,3 +20,14 @@ C:\Users\jumakulov\Desktop\SpecialTask\SpecialTask.Platform\src\SpecialTask.Doma
 C:\Users\jumakulov\Desktop\SpecialTask\SpecialTask.Platform\src\SpecialTask.Domain\obj\Debug\net7.0\refint\SpecialTask.Domain.dll
 C:\Users\jumakulov\Desktop\SpecialTask\SpecialTask.Platform\src\SpecialTask.Domain\obj\Debug\net7.0\SpecialTask.Domain.pdb
 C:\Users\jumakulov\Desktop\SpecialTask\SpecialTask.Platform\src\SpecialTask.Domain\obj\Debug\net7.0\ref\SpecialTask.Domain.dll
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.Domain\bin\Debug\net7.0\SpecialTask.Domain.deps.json
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.Domain\bin\Debug\net7.0\SpecialTask.Domain.dll
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.Domain\bin\Debug\net7.0\SpecialTask.Domain.pdb
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.Domain\obj\Debug\net7.0\SpecialTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.Domain\obj\Debug\net7.0\SpecialTask.Domain.AssemblyInfoInputs.cache
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.Domain\obj\Debug\net7.0\SpecialTask.Domain.AssemblyInfo.cs
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.Domain\obj\Debug\net7.0\SpecialTask.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.Domain\obj\Debug\net7.0\SpecialTask.Domain.dll
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.Domain\obj\Debug\net7.0\refint\SpecialTask.Domain.dll
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.Domain\obj\Debug\net7.0\SpecialTask.Domain.pdb
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.Domain\obj\Debug\net7.0\ref\SpecialTask.Domain.dll

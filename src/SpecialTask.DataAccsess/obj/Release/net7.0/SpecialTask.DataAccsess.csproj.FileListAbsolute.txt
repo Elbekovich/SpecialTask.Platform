@@ -1,0 +1,17 @@
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.DataAccsess\bin\Release\net7.0\SpecialTask.DataAccsess.deps.json
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.DataAccsess\bin\Release\net7.0\SpecialTask.DataAccsess.dll
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.DataAccsess\bin\Release\net7.0\SpecialTask.DataAccsess.pdb
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.DataAccsess\bin\Release\net7.0\SpecialTask.Application.dll
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.DataAccsess\bin\Release\net7.0\SpecialTask.Domain.dll
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.DataAccsess\bin\Release\net7.0\SpecialTask.Application.pdb
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.DataAccsess\bin\Release\net7.0\SpecialTask.Domain.pdb
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.DataAccsess\obj\Release\net7.0\SpecialTask.DataAccsess.csproj.AssemblyReference.cache
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.DataAccsess\obj\Release\net7.0\SpecialTask.DataAccsess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.DataAccsess\obj\Release\net7.0\SpecialTask.DataAccsess.AssemblyInfoInputs.cache
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.DataAccsess\obj\Release\net7.0\SpecialTask.DataAccsess.AssemblyInfo.cs
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.DataAccsess\obj\Release\net7.0\SpecialTask.DataAccsess.csproj.CoreCompileInputs.cache
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.DataAccsess\obj\Release\net7.0\SpecialTask.DataAccsess.csproj.CopyComplete
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.DataAccsess\obj\Release\net7.0\SpecialTask.DataAccsess.dll
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.DataAccsess\obj\Release\net7.0\refint\SpecialTask.DataAccsess.dll
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.DataAccsess\obj\Release\net7.0\SpecialTask.DataAccsess.pdb
+C:\Users\jumakulov\Desktop\SpecialTask.Platform\src\SpecialTask.DataAccsess\obj\Release\net7.0\ref\SpecialTask.DataAccsess.dll
