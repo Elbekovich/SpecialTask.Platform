@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\wwwroot\\media\\avatar\\user.jpg",
+      "PackagePath": "staticwebassets\\media\\avatar\\user.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.SpecialTask.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.SpecialTask.WebApi.props",
+      "PackagePath": "build\\SpecialTask.WebApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SpecialTask.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\SpecialTask.WebApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.SpecialTask.WebApi.props",
+      "PackagePath": "buildTransitive\\SpecialTask.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

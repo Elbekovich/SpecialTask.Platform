@@ -24,9 +24,22 @@ public class UserRepository : BaseRepository, IUserRepository
         finally { await _connection.CloseAsync(); }
     }
 
-    public Task<int> CreateAsync(User entity)
+    public async Task<int> CreateAsync(User entity)
     {
-        throw new NotImplementedException();
+        try
+        {
+            await _connection.OpenAsync();
+            string query = "INSERT INTO public.users(first_name, last_name, " +
+                "phone_number, phone_numer_confirmed, " +
+                "image_path, password_hash, salt, created_at, " +
+                "updated_at) " +
+                "VALUES (@FirstName, @LastName, @PhoneNumber," +
+                "@PhoneNumerConfirmed, @ImagePath, @PasswordHash, @Salt, @CreatedAt, @UpdatedAt);";
+
+            return await _connection.ExecuteAsync(query, entity);
+        }
+        catch { return 0; }
+        finally { await _connection.CloseAsync(); } 
     }
 
     public async Task<int> DeleteAsync(long id)

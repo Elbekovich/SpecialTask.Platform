@@ -41,11 +41,11 @@ namespace SpecialTask.Service.Services.Posts
                 UpdatedAt = TimeHelper.GetDateTime(),
             };
             post.CategoryId = dto.CategoryId;
-            var js = await _category.GetByIdAsync(post.CategoryId);
-            if (js == null) throw new CategoryNotFoundException();
+            //var js = await _category.GetByIdAsync(post.CategoryId);
+            //if (js == null) throw new CategoryNotFoundException();
             post.UserId = dto.UserId;
-            var cs = await _user.GetByIdAsync(post.UserId);
-            if (cs == null) throw new UserNotFoundException();
+            //var cs = await _user.GetByIdAsync(post.UserId);
+            //if (cs == null) throw new UserNotFoundException();
             var res = await _postRepository.CreateAsync(post);
 
             return res > 0;
