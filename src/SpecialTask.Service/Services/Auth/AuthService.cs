@@ -135,7 +135,8 @@ namespace SpecialTask.Service.Services.Auth
             user.PhoneNumber = registerDto.PhoneNumber;
             user.PhoneNumerConfirmed = true;
             //user.ImagePath = "media/avatarmaster/user.jpg";
-            user.ImagePath = String.Empty;
+            user.ImagePath = "media/avatar/user.jpg";
+            //user.ImagePath = String.Empty;
             var haserResult = PasswordHasher.Hash(registerDto.Password);
             user.PasswordHash = haserResult.Hash;
             user.Salt = haserResult.Salt;

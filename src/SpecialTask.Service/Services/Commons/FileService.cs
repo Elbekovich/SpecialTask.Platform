@@ -8,7 +8,7 @@ namespace SpecialTask.Service.Services.Commons
     public class FileService : IFileService
     {
         private readonly string MEDIA = "media";
-        private readonly string IMAGES = "images";
+        private readonly string IMAGES = "avatar";
         private readonly string ROOTPATH;
         
         public FileService(IWebHostEnvironment env)

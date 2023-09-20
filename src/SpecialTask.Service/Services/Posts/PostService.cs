@@ -10,6 +10,7 @@ using SpecialTask.Domain.Entities.Posts;
 using SpecialTask.Persistance.Dtos.Posts;
 using SpecialTask.Service.Interfaces.Common;
 using SpecialTask.Service.Interfaces.Posts;
+using SpecialTask.Service.Services.Commons;
 
 namespace SpecialTask.Service.Services.Posts
 {
@@ -19,15 +20,19 @@ namespace SpecialTask.Service.Services.Posts
         private readonly IPaginator _paginator;
         private readonly ICategoryRepository _category;
         private readonly IUserRepository _user;
+        private IFileService _fileService;
         public PostService(IPostRepository postRepository,
-            IPaginator paginator)
+            IPaginator paginator,
+            IFileService fileService)
         {
             this._paginator = paginator;
             this._postRepository = postRepository;
+            _fileService = fileService;
         }
 
         public async Task<bool> CreateAsync(PostCreateDto dto)
         {
+            string imagepath = await _fileService.UploadImageAsync(dto.ImagePath);
             Post post = new Post()
             {
                 CategoryId = dto.CategoryId,
@@ -37,6 +42,7 @@ namespace SpecialTask.Service.Services.Posts
                 Description = dto.Description,
                 Region = dto.Region,
                 PhoneNumber = dto.PhoneNumber,
+                PostImage = imagepath,
                 CreatedAt = TimeHelper.GetDateTime(),
                 UpdatedAt = TimeHelper.GetDateTime(),
             };
