@@ -8,7 +8,7 @@ using SpecialTask.Service.Interfaces.Users;
 
 namespace SpecialTask.WebApi.Controllers.Common
 {
-    [Route("api/post")]
+    [Route("api/common")]
     [ApiController]
     [EnableRateLimiting("fixed")]
     public class CommonPost : ControllerBase
