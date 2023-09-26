@@ -1,5 +1,21 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\avatar\IMG_7bdf9ecf-0855-44a6-bc92-11e95cdc67f9.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>SpecialTask.WebApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SpecialTask.WebApi</BasePath>
+      <RelativePath>media/avatar/IMG_7bdf9ecf-0855-44a6-bc92-11e95cdc67f9.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\avatar\IMG_7bdf9ecf-0855-44a6-bc92-11e95cdc67f9.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\avatar\user.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>SpecialTask.WebApi</SourceId>

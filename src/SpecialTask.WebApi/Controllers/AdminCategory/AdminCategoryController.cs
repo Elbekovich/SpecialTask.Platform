@@ -11,7 +11,7 @@ using System.Reflection.Metadata.Ecma335;
 
 namespace SpecialTask.WebApi.Controllers.AdminCategory
 {
-    [Route("api/[controller]")]
+    [Route("api/admin/categories")]
     [ApiController]
     [EnableRateLimiting("fixed")]
     public class AdminCategoryController : ControllerBase
@@ -23,17 +23,17 @@ namespace SpecialTask.WebApi.Controllers.AdminCategory
             this._service = categoryService;
         }
         [HttpPost]
-        //[Authorize(Roles ="Admin")]
+        [Authorize(Roles ="Admin")]
         public async Task<IActionResult> CreateAsync([FromForm] CategoryCreateDto dto)
         {
             var validator = new CategoryCreateValidator();
             var result = validator.Validate(dto);
-            if(result.IsValid) return Ok(await  _service.CreateAsync(dto));
+            if (result.IsValid) return Ok(await _service.CreateAsync(dto));
             else return BadRequest(result);
         }
 
-        [HttpPut]
-        //[Authorize(Roles ="Admin")]
+        [HttpPut("{categoryId}")]
+        [Authorize(Roles ="Admin")]
         public async Task<IActionResult> UpdateAsync(long categoryId, [FromForm] CategoryUpdateDto dto)
         {
             var updateValidator = new CategoryUpdateValidator();
@@ -43,15 +43,15 @@ namespace SpecialTask.WebApi.Controllers.AdminCategory
         }
 
         [HttpDelete("{categoryId}")]
-        //[Authorize(Roles ="Admin")]
+        [Authorize(Roles ="Admin")]
         public async Task<IActionResult> DeleteAsync(long categoryId)
             => Ok(await _service.DeleteAsync(categoryId));
 
 
-        [HttpGet]
+        /*[HttpGet]
         [AllowAnonymous]
         public async Task<IActionResult> GetAllAsync([FromQuery] int page = 1)
-            => Ok(await _service.GetAllAsync(new PaginationParams(page, maxPageSize)));
+            => Ok(await _service.GetAllAsync(new PaginationParams(page, maxPageSize)));*/
 
 /*
         [HttpGet("{categoryId")]
@@ -62,10 +62,10 @@ namespace SpecialTask.WebApi.Controllers.AdminCategory
 */
 
 
-        [HttpGet("sort/byCategory")]
+        /*[HttpGet("sort/byCategory")]
         [AllowAnonymous]
         public async Task<ActionResult<IList<Post>>> GetPostsByCategory(long category)
-            => Ok(await _service.GetPostsByCategory(category));
+            => Ok(await _service.GetPostsByCategory(category));*/
 
 
 

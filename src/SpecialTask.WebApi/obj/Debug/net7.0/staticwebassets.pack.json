@@ -1,7 +1,11 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\wwwroot\\media\\avatar\\user.jpg",
+      "Id": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\wwwroot\\media\\avatar\\IMG_7bdf9ecf-0855-44a6-bc92-11e95cdc67f9.jpg",
+      "PackagePath": "staticwebassets\\media\\avatar\\IMG_7bdf9ecf-0855-44a6-bc92-11e95cdc67f9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\wwwroot\\media\\avatar\\user.jpg",
       "PackagePath": "staticwebassets\\media\\avatar\\user.jpg"
     },
     {

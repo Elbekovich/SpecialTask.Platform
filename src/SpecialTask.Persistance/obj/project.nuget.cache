@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wpPa8bFJKf3C/TQwjJbe4JnvQuUX6s3dprYdLXmVOgWHo58JDYfUNqc5G5gUxpO5A7DOkFdFCe7jl/P95sxzvg==",
+  "dgSpecHash": "6zcyetF4FB9wLD3LyaGwK26v8aIsH3QJdzniq0/Dx7EPqPUBJ/jlkaw/6XXb/PZ7Pf1zjy3AXX3KRIzp72VbgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.Persistance\\SpecialTask.Persistance.csproj",
+  "projectFilePath": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.Persistance\\SpecialTask.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jumakulov\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\jumakulov\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",

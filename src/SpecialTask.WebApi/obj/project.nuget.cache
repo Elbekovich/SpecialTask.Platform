@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CIRLVcu+vIOFiVR1Q7P/MHtNm/KfEkEfvgbpYqUz+Y8LgKUKp70MrxbkbfMhR89oPIPDB4q4gp+fg26Hz65Ttg==",
+  "dgSpecHash": "VlYbuVqTjPeiASZkvXkI7RPEAA+4gODcb6KL7Bozfn5aWsLxDROSjhH5nhMOka0X4EJXqGZ2lr/vYIqEOYoUtw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\SpecialTask.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\SpecialTask.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jumakulov\\.nuget\\packages\\aspnetcoreratelimit\\5.0.0\\aspnetcoreratelimit.5.0.0.nupkg.sha512",
     "C:\\Users\\jumakulov\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",

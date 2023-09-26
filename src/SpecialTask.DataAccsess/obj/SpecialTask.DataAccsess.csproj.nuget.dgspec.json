@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.DataAccsess\\SpecialTask.DataAccsess.csproj": {}
+    "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.DataAccsess\\SpecialTask.DataAccsess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.Application\\SpecialTask.Application.csproj": {
+    "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.Application\\SpecialTask.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.Application\\SpecialTask.Application.csproj",
+        "projectUniqueName": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.Application\\SpecialTask.Application.csproj",
         "projectName": "SpecialTask.Application",
-        "projectPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.Application\\SpecialTask.Application.csproj",
+        "projectPath": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.Application\\SpecialTask.Application.csproj",
         "packagesPath": "C:\\Users\\jumakulov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.Application\\obj\\",
+        "outputPath": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.DataAccsess\\SpecialTask.DataAccsess.csproj": {
+    "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.DataAccsess\\SpecialTask.DataAccsess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.DataAccsess\\SpecialTask.DataAccsess.csproj",
+        "projectUniqueName": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.DataAccsess\\SpecialTask.DataAccsess.csproj",
         "projectName": "SpecialTask.DataAccsess",
-        "projectPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.DataAccsess\\SpecialTask.DataAccsess.csproj",
+        "projectPath": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.DataAccsess\\SpecialTask.DataAccsess.csproj",
         "packagesPath": "C:\\Users\\jumakulov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.DataAccsess\\obj\\",
+        "outputPath": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.DataAccsess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,11 +91,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.Application\\SpecialTask.Application.csproj": {
-                "projectPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.Application\\SpecialTask.Application.csproj"
+              "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.Application\\SpecialTask.Application.csproj": {
+                "projectPath": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.Application\\SpecialTask.Application.csproj"
               },
-              "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.Domain\\SpecialTask.Domain.csproj": {
-                "projectPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.Domain\\SpecialTask.Domain.csproj"
+              "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.Domain\\SpecialTask.Domain.csproj": {
+                "projectPath": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.Domain\\SpecialTask.Domain.csproj"
               }
             }
           }
@@ -139,14 +139,14 @@
         }
       }
     },
-    "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.Domain\\SpecialTask.Domain.csproj": {
+    "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.Domain\\SpecialTask.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.Domain\\SpecialTask.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.Domain\\SpecialTask.Domain.csproj",
         "projectName": "SpecialTask.Domain",
-        "projectPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.Domain\\SpecialTask.Domain.csproj",
+        "projectPath": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.Domain\\SpecialTask.Domain.csproj",
         "packagesPath": "C:\\Users\\jumakulov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.Domain\\obj\\",
+        "outputPath": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "b1XmSnkoVvVccGXCCppVF47EYUGMITAlGJh1UehPwqw=",
+  "Hash": "sWJWLpLsDqha5HU0Vc6jsPgL69OnwiruVd+rDKGvMUg=",
   "Source": "SpecialTask.WebApi",
   "BasePath": "_content/SpecialTask.WebApi",
   "Mode": "Default",
@@ -10,17 +10,34 @@
     {
       "Name": "SpecialTask.WebApi\\wwwroot",
       "Source": "SpecialTask.WebApi",
-      "ContentRoot": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\wwwroot\\",
       "BasePath": "_content/SpecialTask.WebApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\wwwroot\\media\\avatar\\user.jpg",
+      "Identity": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\wwwroot\\media\\avatar\\IMG_7bdf9ecf-0855-44a6-bc92-11e95cdc67f9.jpg",
       "SourceId": "SpecialTask.WebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jumakulov\\Desktop\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\wwwroot\\",
+      "BasePath": "_content/SpecialTask.WebApi",
+      "RelativePath": "media/avatar/IMG_7bdf9ecf-0855-44a6-bc92-11e95cdc67f9.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\avatar\\IMG_7bdf9ecf-0855-44a6-bc92-11e95cdc67f9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\wwwroot\\media\\avatar\\user.jpg",
+      "SourceId": "SpecialTask.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jumakulov\\Desktop\\New folder\\SpecialTask.Platform\\src\\SpecialTask.WebApi\\wwwroot\\",
       "BasePath": "_content/SpecialTask.WebApi",
       "RelativePath": "media/avatar/user.jpg",
       "AssetKind": "All",
